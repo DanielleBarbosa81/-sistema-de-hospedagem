@@ -1,0 +1,14 @@
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfo.cs
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.exe
+C:\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.deps.json
+C:\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.runtimeconfig.json
+C:\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.dll
+C:\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.pdb
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.dll
+C:\SistemaHospedagem\obj\Debug\net9.0\refint\SistemaHospedagem.dll
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.pdb
+C:\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.genruntimeconfig.cache
+C:\SistemaHospedagem\obj\Debug\net9.0\ref\SistemaHospedagem.dll
